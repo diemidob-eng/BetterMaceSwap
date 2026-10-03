@@ -1,5 +1,5 @@
 # BetterMaceSwap
-
+ e
 A client-side Fabric mod for Minecraft that automates mace PvP combat sequences — no manual hotkey juggling required. Focus on the fight, not the inventory.
 
 > **7,000+ downloads on CurseForge** · [Download here](https://www.curseforge.com/minecraft/mc-mods/bettermaceswap)
